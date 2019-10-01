@@ -97,11 +97,15 @@ nav {
 }
 
 
-div.intro >* {
+section div {
 	display: inline-block;
-	width: 46%;
-	margin: 0;
-	vertical-align: top;
+	padding-top: 30px;
+	margin: auto;
+}
+
+section.intro{
+	padding-bottom: 50px;
+	border-bottom: 1px solid black;
 }
 
 
@@ -110,11 +114,6 @@ img.middle-img {
 	margin: 10px auto;
 }
 
-/* .section-three {
-	display: inline-block;
-	width: 30%;
-	vertical-align: top;
-} */
 
 button {
 	border: 1px solid black;
@@ -145,8 +144,10 @@ button {
 footer h3{
 	padding-top: 30px;
 }
+
 footer p {
 	margin: 30px auto 50px;
 	text-align: center;
 	font-size: 13px;
 }
+
