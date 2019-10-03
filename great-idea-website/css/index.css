@@ -123,14 +123,14 @@ button {
 }
 
 
-.section-two div {
+.section-two article {
 	display: inline-block;
 	width: 48%;
 	vertical-align: top;
 	padding: 40px 0;
 }
 
-.section-three div {
+.section-three article {
 	display: inline-block;
 	width: 32%;
 	vertical-align: top;
